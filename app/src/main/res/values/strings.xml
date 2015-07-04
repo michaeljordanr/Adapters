@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adapters</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="coffee">Café</string>
+    <string name="noddles">Macarrão</string>
+    <string name="beans">Feijão</string>
+
+    <string-array name="produtos">
+        <item>Café</item>
+        <item>Feijão</item>
+        <item>Arroz</item>
+        <item>Macarrão</item>
+        <item>Batata</item>
+    </string-array>
+</resources>
